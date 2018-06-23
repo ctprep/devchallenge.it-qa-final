@@ -5,10 +5,9 @@ JIRA can be accessed by this [link](https://ctrrep.atlassian.net)
 
 # Acess to JIRA:
 Use next credentials to acess JIRA
+>Email - devchall12@gmail.com
 
-Email - devchall12@gmail.com
-
-Password - devchallenge12
+>Password - devchallenge12
 
 # Artifacts
 ## Test plan
