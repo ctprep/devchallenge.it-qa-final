@@ -13,6 +13,7 @@ Use next credentials to acess JIRA
 Project in JIRA for TripMyDream can be found [here](https://ctrrep.atlassian.net/projects/TMD)
 
 # Artifacts
+Test artifacts can be found on [Project Pages](https://ctrrep.atlassian.net/projects/TMD?selectedItem=com.atlassian.jira.jira-projects-plugin:project-pages-page) or by using [JIRA search](https://ctrrep.atlassian.net/issues/?jql=order%20by%20created%20DESC)
 ## Test plan
 Test plan can be found [here](https://ctrrep.atlassian.net/wiki/spaces/TRIP/pages/425986/Test+Plan?atlOrigin=eyJpIjoiNzA2NjM0MzBjNDQwNDhjNzljOTMxMjcxYmYyNzlmNzAiLCJwIjoiYyJ9) on confluence page.
 ## Test strategy
