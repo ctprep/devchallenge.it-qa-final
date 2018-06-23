@@ -10,7 +10,7 @@ Use next credentials to acess JIRA
 >Password - devchallenge12
 
 # Project link
-Project for tripmydream can be found [here](https://ctrrep.atlassian.net/projects/TMD)
+Project in JIRA for TripMyDream can be found [here](https://ctrrep.atlassian.net/projects/TMD)
 
 # Artifacts
 ## Test plan
