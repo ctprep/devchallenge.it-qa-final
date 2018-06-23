@@ -9,6 +9,9 @@ Use next credentials to acess JIRA
 
 >Password - devchallenge12
 
+# Project link
+Project for tripmydream can be found [here](https://ctrrep.atlassian.net/projects/TMD)
+
 # Artifacts
 ## Test plan
 Test plan can be found [here](https://ctrrep.atlassian.net/wiki/spaces/TRIP/pages/425986/Test+Plan?atlOrigin=eyJpIjoiNzA2NjM0MzBjNDQwNDhjNzljOTMxMjcxYmYyNzlmNzAiLCJwIjoiYyJ9) on confluence page.
