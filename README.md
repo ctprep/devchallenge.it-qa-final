@@ -26,3 +26,5 @@ Test cases can be found [here](https://ctrrep.atlassian.net/issues/?jql=project%
 Test cases can be found [here](https://ctrrep.atlassian.net/issues/?filter=-4&jql=issuetype%20%3D%20Bug) in JIRA.
 ## Test report
 Test report can be found [here](https://ctrrep.atlassian.net/wiki/spaces/TRIP/pages/524290/Test+Report?atlOrigin=eyJpIjoiN2JkY2UxNmUzNjEyNDVmMmI2ODM5YTdkOTVjZmM2YzciLCJwIjoiYyJ9) on confluence page.
+## Most critical issues
+Most critical issues can be found [here](https://ctrrep.atlassian.net/issues/?jql=issuetype%3Dbug%20and%20priority%20%3D%20Highest) in JIRA.
